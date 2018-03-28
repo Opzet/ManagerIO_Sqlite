@@ -1,5 +1,7 @@
 
-# http://www.Manager.Io Back Office Database interface
+# Back Office interface for Manager.IO database
+
+http://www.Manager.Io 
 
 Framework for extending and additional data processing of manager.io data
 
